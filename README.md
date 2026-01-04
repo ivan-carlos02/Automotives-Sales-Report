@@ -3,6 +3,8 @@
 ## Repository Outline
 - DAG.py -  File python script berisi proses DAG Airflow dari fetching data dari SQL, data cleaning dan data loading ke ElasticSearch
 - GX.ipynb - File notebook berisi Great Expectation dengan 7 expectation terhadap dataset yang sudah clean
+- data_raw - Dataset raw dari database PostgreSQL
+- data_clean - Dataset yang sudah clean hasil DAG
 - Folder images - Berisi gambar-gambar hasil visualisasi
 
 ## Problem Background
